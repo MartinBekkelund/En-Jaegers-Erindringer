@@ -5,3 +5,5 @@ Bernhard Herre var en dansk-norsk forfattar kjent for boken «En Jægers Erindri
 Den lille samlingen inneholder fem korte prosa med melankolske naturstemningar fra Herre sine mange og lange jaktturer i Nordmarka og på Krokskogen.
 
 Mer informasjon om Bernhard Herre og «En Jægers Erindringer» finnes på [Wikipedia](https://nn.wikipedia.org/wiki/Bernhard_Herre).
+
+Originaltekst hentet fra [Wikisource](https://no.wikisource.org/wiki/Indeks:Herre_-_En_J%C3%A6gers_Erindringer.djvu).
